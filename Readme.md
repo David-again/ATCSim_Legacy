@@ -7,7 +7,7 @@ The application effectively turns the computer into a radar terminal; the kind w
 
 ## One (Major) Requirement. . . 
 
-Developed in 2006 in Microsoft’s legacy Visual Basic 6.0, it served as a final year BSc. Project and has not been revisited since.  MS VB6.0 is therefore required to load and run the program, unfortunately!  
+Developed in 2006 in Microsoft’s legacy Visual Basic 6.0, it served as a final year Project for a Computer Science BSc. degree, and has not been revisited since.  MS VB6.0 is therefore required to load and run the program, unfortunately!  
 I have nonetheless chosen to put it up online in case any legacy-programming-language-buff may be interested in working on it to “modernize”.
 
 No dependencies needed per-se… Just download and open the .VBP file in your VB6 IDE, then press F5 to run.  Oh, by the way, the Access database file that stores the aircraft data is also an old version of Access.  You'll need a wayback machine of some sort to open that too!
@@ -53,5 +53,5 @@ The visual representation of aircraft should be richer and more informative: tra
 
 I concentrated more on the design phase of this software development project, based on the premise that “excellent design yields a high quality software product that achieves the three core internal software qualities of maintainability, reusability, and (easy) understandability, thereby facilitating upgrade and adaptability and extending its life span.” – C.S. French 
 
-## Contributing
+## Contributions are welcome
 I am really eager to see this project improved upon, or perhaps "translated" into a modern programming language. 😎
