@@ -54,4 +54,4 @@ The visual representation of aircraft should be richer and more informative: tra
 I concentrated more on the design phase of this software development project, based on the premise that “excellent design yields a high quality software product that achieves the three core internal software qualities of maintainability, reusability, and (easy) understandability, thereby facilitating upgrade and adaptability and extending its life span.” – C.S. French 
 
 ## Contributions are welcome
-I am really eager to see this project improved upon, or perhaps "translated" into a modern programming language. 😎
+I am in the process of redesigning the project for development in a modern environment.  ReactJS is being considered for implementation. Contributions are welcome! 😎
