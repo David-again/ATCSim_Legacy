@@ -1,5 +1,5 @@
 # Air Traffic Control Simulation Application
-## A Legacy Application developed in MS Visual Basic 6.0
+## A Legacy App developed in MS Visual Basic 6 (NOTE: Web-app version in development)
 
 Developed in Microsoft Visual Basic 6.0, the application puts the user into the role of an Air Traffic Controller at a major airport, coordinating aircraft arrivals and departures, as well as “transiting” air traffic (through the controller's airspace).  
 The application effectively turns the computer into a radar terminal; the kind which is usually found in an airport's control tower. The user will be in charge of directing any aeroplanes that fly into the airspace to their desired destination, be it the airport (at the center of the screen), or some exit sector of the airspace.
